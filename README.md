@@ -1,3 +1,5 @@
+<img width="948" height="438" alt="image" src="https://github.com/user-attachments/assets/01e50948-c2d2-4321-861d-38a27f6f4458" />
+
 # 🌐 3D Portfolio — Immersive Creative Developer & Designer Portfolio
 
 A stunning, fully interactive **3D portfolio website** built with modern web technologies. This project combines the power of **Next.js**, **Three.js**, **GSAP**, **Tailwind CSS**, and **21st.dev components** to create a visually breathtaking, scroll-driven experience that showcases creative development work in an unforgettable way.
